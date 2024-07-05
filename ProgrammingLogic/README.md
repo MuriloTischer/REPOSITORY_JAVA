@@ -1,6 +1,6 @@
 # Exercicios para aperfeiçoamento da Lógica de programação
 
-## Liguagem Utilizada.
+## Linguagem Utilizada.
 - JAVA
  
 
